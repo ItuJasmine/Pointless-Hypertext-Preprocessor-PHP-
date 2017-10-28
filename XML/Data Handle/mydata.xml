@@ -4,4 +4,5 @@
         <username>test user</username>
         <password>testpass</password>
     </user>
-<user><username>new user</username><password>1234</password></user></users>
+    <user><username>new user</username><password>1234</password></user>
+</users>
